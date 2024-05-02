@@ -1,6 +1,6 @@
 streamlit==1.33.0
 pandas==2.0.3
-base64==3.8.19
+base58==2.0.1
 subprocess
 os
 pickle
